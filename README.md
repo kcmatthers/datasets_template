@@ -1,4 +1,4 @@
-# ![strata scratch](http://visualization/stratascratch.jpg) Datasets Template
+# ![strata scratch](/visualization/stratascratch.jpg) Datasets Template
 A template to upload your analytics created using the available datasets on Strata Scratch.
 
 ## Repo Folder/File Structure
