@@ -19,6 +19,7 @@ A template to upload your analytics created using the available datasets on Stra
 SELECT * FROM datasets.yelp_reviews
 ```
 Refer to the Markdown Style guide or click on "Edit" in this README to see how the code above was embedded.
+
 3. To link a visualization, your visualization needs to be in .jpg, .png, or some other image format and placed into the "visualizations" folder. You will then link the image in the README.md by specifying the path ((visualizations/stratascratch.jpg). Refer to the Markdown Style Guide below or click on "Edit" in this README to see how the top image was emebedded.
   
 ## References
